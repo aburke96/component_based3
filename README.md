@@ -19,7 +19,7 @@ public static boolean isPrime(int k)
   
 public static int greatestCommonFactor(int m, int n) 
   
- public static int getGreatestConstrainedMultiple(int k, int maximum) 
+ public static int getGreatestConstrainedMultiple(int k, int maximum) // Bug in this testcase: unresolved
   
 public static int getIntegerH(int h_q_3, int h_r_5) 
  
